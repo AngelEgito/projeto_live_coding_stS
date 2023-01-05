@@ -28,6 +28,7 @@ header .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 20px;
     right: 80px;
     margin: auto;
 
